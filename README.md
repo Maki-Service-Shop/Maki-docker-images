@@ -1,1 +1,0 @@
-# Maki-docker-images
