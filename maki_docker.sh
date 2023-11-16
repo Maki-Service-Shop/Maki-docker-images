@@ -1,0 +1,10 @@
+docker pull ghcr.io/sigma-production/nginx-ptero:8.0
+docker pull ghcr.io/sigma-production/nginx-ptero:8.1
+docker pull ghcr.io/parkervcp/yolks:java_17
+docker pull makiserviceshop/aiowithnojava
+docker pull ghcr.io/parkervcp/yolks:python_3.11
+docker pull ghcr.io/parkervcp/yolks:python_3.10
+docker pull ghcr.io/parkervcp/yolks:debian
+docker pull ghcr.io/pterodactyl/yolks:java_16
+docker pull ghcr.io/pterodactyl/yolks:java_11
+docker pull ghcr.io/pterodactyl/yolks:java_8
